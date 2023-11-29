@@ -1,5 +1,4 @@
 
-	@import url('../../../../css2.css');
     @import url('https://fonts.googleapis.com/css2?family=Teko:wght@300;400;500;600;700&display=swap');
 
 /*  ======= Common Styles ======= */
@@ -12,7 +11,7 @@ body{
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     line-height: 26px;
-    color: #8d9aa8;
+    color: #051441;
     font-weight: 400;
     letter-spacing: -0.2px;
     position: relative;
@@ -140,7 +139,7 @@ button{
 
 .bg-white{ background-color: #fff; }
 .bg-grey{ background-color: #f4f4f4;}
-.bg-yellow{ background-color: #fdb900cc;}
+.bg-yellow{ background-color:#C45C17cc;}
 .bg-blue{ background-color: #0b2653e8 }
 .bg-blue-2{ background-color: #0b2653 }
 .bg-dark{ background-color: #242323!important;}
@@ -3338,3 +3337,8 @@ blockquote span{
     padding-bottom: 0px !important;
 }
 
+
+.no-paddsing{
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
